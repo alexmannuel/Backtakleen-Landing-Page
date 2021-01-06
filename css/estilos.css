@@ -20,7 +20,7 @@ html, body{
     background-scr
 }
 
-.header:before{
+/* .header:before{
     content: '';
     position: absolute;
     top: 96px;
@@ -28,7 +28,7 @@ html, body{
     width: 100%;
     height: 874px;
     background-color: rgba(30, 218, 46, 0.1);
-}
+} */
 
 /* NAV */
 .nav{
